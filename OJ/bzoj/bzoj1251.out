@@ -1,0 +1,75 @@
+_______prt_______
+id:3 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:2 cl:0 cr:0
+id:2 dat:0 mx:0 tag1:0 tag2:0 fa:1 cl:3 cr:4
+id:4 dat:0 mx:0 tag1:0 tag2:0 fa:2 cl:0 cr:0
+id:1 dat:0 mx:0 tag1:0 tag2:0 fa:0 cl:2 cr:5
+id:6 dat:0 mx:0 tag1:0 tag2:0 fa:5 cl:0 cr:0
+id:5 dat:0 mx:0 tag1:0 tag2:0 fa:1 cl:6 cr:7
+id:7 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:5 cl:0 cr:0
+_________________
+_______prt_______
+id:3 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:2 cl:0 cr:0
+id:2 dat:0 mx:0 tag1:0 tag2:0 fa:5 cl:3 cr:0
+id:5 dat:0 mx:0 tag1:0 tag2:0 fa:0 cl:2 cr:7
+id:4 dat:0 mx:0 tag1:0 tag2:0 fa:1 cl:0 cr:0
+id:1 dat:0 mx:0 tag1:0 tag2:1 fa:7 cl:4 cr:6
+id:6 dat:0 mx:0 tag1:0 tag2:0 fa:1 cl:0 cr:0
+id:7 dat:-1000000000 mx:0 tag1:0 tag2:0 fa:5 cl:1 cr:0
+_________________
+0
+_______prt_______
+id:3 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:2 cl:0 cr:0
+id:2 dat:0 mx:0 tag1:0 tag2:0 fa:0 cl:3 cr:4
+id:5 dat:0 mx:0 tag1:0 tag2:0 fa:4 cl:0 cr:1
+id:6 dat:0 mx:0 tag1:0 tag2:1 fa:1 cl:0 cr:0
+id:1 dat:0 mx:0 tag1:0 tag2:0 fa:5 cl:6 cr:0
+id:4 dat:0 mx:0 tag1:0 tag2:0 fa:2 cl:5 cr:7
+id:7 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:4 cl:0 cr:0
+_________________
+_______prt_______
+id:3 dat:-1000000000 mx:0 tag1:0 tag2:0 fa:2 cl:0 cr:5
+id:5 dat:0 mx:0 tag1:0 tag2:1 fa:3 cl:0 cr:6
+id:6 dat:0 mx:0 tag1:0 tag2:1 fa:5 cl:0 cr:0
+id:2 dat:0 mx:0 tag1:0 tag2:0 fa:0 cl:3 cr:1
+id:1 dat:0 mx:0 tag1:0 tag2:0 fa:2 cl:0 cr:4
+id:4 dat:0 mx:0 tag1:0 tag2:0 fa:1 cl:0 cr:7
+id:7 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:4 cl:0 cr:0
+_________________
+0
+_______prt_______
+id:3 dat:-1000000000 mx:0 tag1:0 tag2:0 fa:0 cl:0 cr:5
+id:6 dat:0 mx:0 tag1:0 tag2:0 fa:5 cl:0 cr:0
+id:5 dat:0 mx:0 tag1:0 tag2:0 fa:3 cl:6 cr:2
+id:2 dat:0 mx:0 tag1:0 tag2:0 fa:5 cl:0 cr:1
+id:1 dat:0 mx:0 tag1:0 tag2:0 fa:2 cl:0 cr:4
+id:4 dat:0 mx:0 tag1:0 tag2:0 fa:1 cl:0 cr:7
+id:7 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:4 cl:0 cr:0
+_________________
+_______prt_______
+id:3 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:6 cl:0 cr:0
+id:6 dat:-97 mx:0 tag1:0 tag2:0 fa:0 cl:3 cr:5
+id:5 dat:0 mx:0 tag1:0 tag2:0 fa:6 cl:0 cr:2
+id:2 dat:0 mx:0 tag1:0 tag2:0 fa:5 cl:0 cr:1
+id:1 dat:0 mx:0 tag1:0 tag2:0 fa:2 cl:0 cr:4
+id:4 dat:0 mx:0 tag1:0 tag2:0 fa:1 cl:0 cr:7
+id:7 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:4 cl:0 cr:0
+_________________
+_______prt_______
+id:3 dat:-1000000000 mx:-97 tag1:0 tag2:0 fa:5 cl:0 cr:6
+id:6 dat:-97 mx:-97 tag1:-81 tag2:0 fa:3 cl:0 cr:0
+id:5 dat:-81 mx:0 tag1:0 tag2:0 fa:0 cl:3 cr:4
+id:2 dat:0 mx:0 tag1:0 tag2:0 fa:1 cl:0 cr:0
+id:1 dat:0 mx:0 tag1:-81 tag2:0 fa:4 cl:2 cr:0
+id:4 dat:0 mx:0 tag1:0 tag2:0 fa:5 cl:1 cr:7
+id:7 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:4 cl:0 cr:0
+_________________
+0
+_______prt_______
+id:3 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:6 cl:0 cr:0
+id:6 dat:-178 mx:0 tag1:0 tag2:0 fa:0 cl:3 cr:4
+id:5 dat:-81 mx:0 tag1:0 tag2:0 fa:4 cl:0 cr:1
+id:2 dat:0 mx:0 tag1:0 tag2:0 fa:1 cl:0 cr:0
+id:1 dat:0 mx:0 tag1:-81 tag2:0 fa:5 cl:2 cr:0
+id:4 dat:0 mx:0 tag1:0 tag2:0 fa:6 cl:5 cr:7
+id:7 dat:-1000000000 mx:-1000000000 tag1:0 tag2:0 fa:4 cl:0 cr:0
+_________________
